@@ -1,4 +1,4 @@
-# tangled-beep Cybersecurity portfolio
+# Cybersecurity portfolio
 
 ## Education
 Bachelors of Science, Cybersecurity & Information Assurance - Western Governors University (graduated 2021)
